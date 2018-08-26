@@ -1,0 +1,10 @@
+C:\Users\uu\source\repos\Enumeracoes\Enumeracoes\bin\Debug\Enumeracoes.exe.config
+C:\Users\uu\source\repos\Enumeracoes\Enumeracoes\bin\Debug\Enumeracoes.exe
+C:\Users\uu\source\repos\Enumeracoes\Enumeracoes\bin\Debug\Enumeracoes.pdb
+C:\Users\uu\source\repos\Enumeracoes\Enumeracoes\obj\Debug\Enumeracoes.csprojResolveAssemblyReference.cache
+C:\Users\uu\source\repos\Enumeracoes\Enumeracoes\obj\Debug\Enumeracoes.Form1.resources
+C:\Users\uu\source\repos\Enumeracoes\Enumeracoes\obj\Debug\Enumeracoes.Properties.Resources.resources
+C:\Users\uu\source\repos\Enumeracoes\Enumeracoes\obj\Debug\Enumeracoes.csproj.GenerateResource.cache
+C:\Users\uu\source\repos\Enumeracoes\Enumeracoes\obj\Debug\Enumeracoes.csproj.CoreCompileInputs.cache
+C:\Users\uu\source\repos\Enumeracoes\Enumeracoes\obj\Debug\Enumeracoes.exe
+C:\Users\uu\source\repos\Enumeracoes\Enumeracoes\obj\Debug\Enumeracoes.pdb
